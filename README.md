@@ -7,7 +7,7 @@ In this portfolio, you will see the data analytical projects that I have contrib
 ## 2025 MST
 ---
 ## 2025 Cemetery Land: Sustainable Dashboard Development for Perlis E-Cemetery
->[linl](https://github.com/ALMARDHIAH/e-cemetery.github.io)
+>[link](https://github.com/ALMARDHIAH/e-cemetery.github.io)
 ---
 ## 2025 Road Network Analysis in Federal Territory of Putrajaya
 >[link](https://github.com/ALMARDHIAH/road_network_analysis.github.io)
