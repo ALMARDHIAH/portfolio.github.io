@@ -5,8 +5,6 @@ In this portfolio, you will see the data analytical projects that I have contrib
 
 # My Projects
 
-## 2025 MST
-
 ## 2025 Cemetery Land: Sustainable Dashboard Development for Perlis E-Cemetery
 During my internship, I was actively involved in the development of the Perlis e-cemetery dashboard under JAIPs (Perlis State Islamic Religious Affairs Department).
 >[link](https://github.com/ALMARDHIAH/e-cemetery.github.io)
